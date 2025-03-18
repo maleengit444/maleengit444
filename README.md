@@ -1,12 +1,30 @@
-- 👋 Hi, I’m @maleengit444
-- 👀 I’m interested in learning about current technologies that shape our world today...
-- 🌱 I’m currently learning . development frameworks ..
-- 💞️ I’m looking to collaborate on git hub with othe creative peope and tech enthusiast's...
-- 📫 How to reach me obatomaleen16@gmail.com..
-- 😄 Pronouns: ..she.
-- ⚡ Fun fact: its never too late to learn, a journey of a thousand miles starts today...
+ 👋 Hi, I'm Maleen Obato!
 
-<!---
-maleengit444/maleengit444 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a Computer Science student and aspiring Software Developer specializing in building innovative projects like:
+
+- 💬 Career Guidance Chatbot (AI-powered)
+- 🌐 Web Development (HTML, CSS, JavaScript, Node.js)
+- 📱 Mobile App Development (Android Studio)
+- 📸 Photography (Hobby and Potential Business)
+
+ 🚀 Skills
+- **Programming Languages:** Python, JavaScript
+- **Frontend Development:** HTML, CSS, JavaScript
+- **Backend Development:** Node.js, Express
+- **APIs:** Google Generative AI (Gemini API)
+- **Version Control:** Git, GitHub
+
+ 📫 How to Reach Me
+- LinkedIn: 
+- Email:obatomaleen16@gmail.com
+
+💡 Current Projects
+- Building an AI-powered Career Guidance Chatbot for my final year project.
+- Developing a freelancing business focused on Photography and Web Design.
+
+ 📚 Learning Goals
+- Mastering Mobile App Development with Android Studio.
+- Enhancing my AI and Backend Development Skills.
+
+Feel free to explore my repositories and get in touch!
+

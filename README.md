@@ -15,7 +15,7 @@ I'm a Computer Science student and aspiring Software Developer specializing in b
 - **Version Control:** Git, GitHub
 
  📫 How to Reach Me
-- LinkedIn: 
+- LinkedIn:www.linkedin.com/in/maleen-obato-602a83356 
 - Email:obatomaleen16@gmail.com
 
 💡 Current Projects
